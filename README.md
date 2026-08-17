@@ -24,3 +24,4 @@ I am currently actively looking for **Junior / Entry-Level Remote Unity Develope
 
 * 📧 **Email:** gencahmetcan26@gmail.com
 * 💼 **LinkedIn:** https://www.linkedin.com/in/ahmet-can-genc/
+* 📄 **Resume:** [View / Download My CV](AhmetCanGenc_CV.pdf)
